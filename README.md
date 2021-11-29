@@ -5,7 +5,7 @@
 - 📫 How to reach me ... that's a trick. LOL.
 
 
-Hey, I added this line from the living room using device "Talon".
+Hey, I added this line from the living room using device, T420 "Talon".
 
 <!---
 code4eyes/code4eyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
