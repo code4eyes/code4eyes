@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ... a few cool things
 - 📫 How to reach me ... that's a trick. LOL.
 
+
+Hey, I added this line from the living room using device "Talon".
+
 <!---
 code4eyes/code4eyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
